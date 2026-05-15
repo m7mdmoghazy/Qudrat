@@ -1,4 +1,4 @@
-# Qudrat (Capacities Platform) | منصة قدرات
+# Qudrat  منصة قدرات
 
 
 
