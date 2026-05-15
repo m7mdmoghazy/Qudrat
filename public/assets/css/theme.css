@@ -1,0 +1,49 @@
+:root {
+  /* Color Palette - Light Mode (Default) */
+  --primary-hue: 250; /* Deep Purple */
+  --primary: hsl(var(--primary-hue), 80%, 60%);
+  --primary-hover: hsl(var(--primary-hue), 80%, 50%);
+  --primary-light: hsl(var(--primary-hue), 80%, 90%);
+
+  --secondary-hue: 180; /* Teal */
+  --secondary: hsl(var(--secondary-hue), 70%, 50%);
+
+  --accent-hue: 330; /* Pink */
+  --accent: hsl(var(--accent-hue), 80%, 60%);
+
+  --bg-body: hsl(220, 20%, 97%);
+  --bg-card: hsl(0, 0%, 100%);
+  --bg-sidebar: hsl(220, 20%, 95%);
+
+  --text-main: hsl(220, 20%, 20%);
+  --text-muted: hsl(220, 10%, 50%);
+  --text-light: hsl(220, 10%, 90%); /* For dark backgrounds */
+
+  --border-color: hsl(220, 20%, 90%);
+
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+
+  --radius: 12px;
+  --font-heading: "Outfit", sans-serif;
+  --font-body: "Inter", sans-serif;
+
+  --header-height: 70px;
+  --sidebar-width: 250px;
+}
+
+[data-theme="dark"] {
+  /* Darkness re-imagined */
+  --bg-body: hsl(220, 20%, 10%);
+  --bg-card: hsl(220, 20%, 15%);
+  --bg-sidebar: hsl(220, 20%, 12%);
+
+  --text-main: hsl(220, 20%, 90%);
+  --text-muted: hsl(220, 10%, 60%);
+
+  --border-color: hsl(220, 20%, 20%);
+
+  --primary: hsl(var(--primary-hue), 80%, 65%); /* Lighter for dark mode */
+  --primary-hover: hsl(var(--primary-hue), 80%, 70%);
+}

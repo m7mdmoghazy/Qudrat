@@ -1,0 +1,1052 @@
+Request: admin/dashboard
+Request: admin/users
+Request: admin/users
+Request: admin/users
+Request: admin/courses
+Fallback: AdminController @ courses
+404: Method courses not found in AdminController
+Request: 
+Request: login
+Request: admin/dashboard
+Request: admin/reports
+Request: admin/reports/attendance
+Request: logout
+Request: login
+Request: login
+Request: login
+Request: login
+Request: login
+Request: 
+Request: login
+Request: 
+Request: login
+Request: 
+Request: login
+Request: 
+Request: login
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportCourses Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ register Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+404: Method index not found
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,2
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: questions,1
+Resolved: CourseController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: results,1
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ create Params: 
+Resolved: CourseController @ store Params: 
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ update Params: 2
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ update Params: 1
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ update Params: 2
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ update Params: 1
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ view Params: 4
+Resolved: CourseController @ view Params: 2
+Resolved: CourseController @ index Params: students,2
+Resolved: CourseController @ view Params: 2
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ create Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: QuizController @ index Params: results,1
+Resolved: QuizController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: QuizController @ index Params: questions,1
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: AssignmentController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: QuizController @ index Params: questions,1
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: AdminController @ deleteUser Params: 7
+Resolved: AdminController @ users Params: 
+Resolved: AdminController @ deleteUser Params: 3
+Resolved: AdminController @ users Params: 
+Resolved: AdminController @ deleteUser Params: 5
+Resolved: AdminController @ users Params: 
+Resolved: AdminController @ deleteUser Params: 6
+Resolved: AdminController @ users Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ delete Params: 2
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: GradeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 4
+404: Controller StudentController not found
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ view Params: 1
+Resolved: StudentController @ profile Params: 
+404: Controller StudentController not found
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ view Params: 1
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 4
+404: Method enroll not found
+Resolved: HomeController @ index Params: 
+Resolved: StudentController @ enroll Params: 4
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 4
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 4
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 1
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 2
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ submit Params: 1
+404: Method submit not found
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ submit Params: 1
+404: Method submit not found
+Resolved: AssignmentController @ submit Params: 1
+Resolved: AssignmentController @ submit Params: 1
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: take,1
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: take,1
+Resolved: QuizController @ index Params: 
+Resolved: QuizController @ index Params: take,2
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ view Params: 1
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ update Params: 1
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ update Params: 2
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ view Params: 1
+Resolved: CourseController @ index Params: students,1
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: students,1
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: students,1
+Resolved: CourseController @ view Params: 1
+Resolved: QuizController @ index Params: create,1
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: QuizController @ index Params: create,1
+Resolved: CourseController @ view Params: 1
+Resolved: CourseController @ index Params: students,1
+Resolved: CourseController @ view Params: 1
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: submissions,1
+Resolved: AssignmentController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 2
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ edit Params: 1
+Resolved: Course-placeholder.jpgController @ index Params: 
+404: Controller Course-placeholder.jpgController not found
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: AdminController @ users Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: create
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: StudentController @ enroll Params: 4
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportCourses Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ register Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: create
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportCourses Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportAttendance Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: CourseController @ view Params: 1
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: AdminController @ reportCourses Params: 
+Resolved: AdminController @ reportAttendance Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: StudentController @ profile Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: GradeController @ index Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: AuthController @ login Params: 
+Resolved: StudentController @ enroll Params: 4
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ register Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ reportStudents Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AdminController @ users Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: AdminController @ reports Params: 
+Resolved: CourseController @ index Params: 
+Resolved: UploadsController @ courses Params: course-placeholder.jpg
+404: Controller UploadsController not found
+Resolved: AdminController @ reports Params: 
+Resolved: AdminController @ settings Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AssignmentController @ index Params: 
+Resolved: QuizController @ index Params: 
+Resolved: AuthController @ logout Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AuthController @ login Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AdminController @ reports Params: 
+Resolved: AuthController @ login Params: 
+Resolved: CourseController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AdminController @ users Params: 
+Resolved: AuthController @ login Params: 
+Resolved: DashboardController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: Fix-passwordsController @ index Params: 
+Resolved: HomeController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: Fix-passwordsController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: HomeController @ index Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
+Resolved: Fix-passwordsController @ index Params: 
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+404: Controller Fix-passwordsController not found
+Resolved: HomeController @ index Params: 
+Resolved: AuthController @ login Params: 
+Resolved: Fix-passwordsController @ index Params: 
+404: Controller Fix-passwordsController not found
