@@ -1,6 +1,6 @@
 # Qudrat (Capacities Platform) | منصة قدرات
 
-![Project Cover](docs/images/cover.png)
+![Project Cover](./docs/images/cover.png)
 
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
